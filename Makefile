@@ -1,2 +1,2 @@
 run:
-	script/my_app daemon
+	script/my_app.pl daemon
